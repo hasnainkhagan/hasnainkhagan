@@ -24,13 +24,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:freelevance@gmail.com">
+  <a href="mailto:freelevance@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-A6E000?style=for-the-badge&logo=gmail&logoColor=131313" />
   </a>
   <a href="https://linkedin.com/in/hasnainkhagan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-A6E000?style=for-the-badge&logo=linkedin&logoColor=131313" target="_blank" />
   </a>
-  <a href="#" target="_blank">
+  <a href="hasnainkhagan.vercel" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-A6E000?style=for-the-badge&logo=todoist&logoColor=131313" target="_blank" />
   </a>
 </div>
