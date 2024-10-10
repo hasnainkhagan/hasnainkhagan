@@ -11,7 +11,7 @@
  
 🎯 I’m currently working on **AI Web Scrapper | Python**.
  
-🧠 I’m currently learning **MERN Stack**.
+🧠 I’m currently learning **Cloud Computing**.
  
 👥 I’m looking to collaborate with **talents in IT Industry**.
 
