@@ -9,7 +9,7 @@
 
 <div align="left">
  
-🎯 I’m currently working on **My Portfolio Website to achieve an Award | React | NEXT.js**.
+🎯 I’m currently working on **AI Web Scrapper | Python**.
  
 🧠 I’m currently learning **MERN Stack**.
  
