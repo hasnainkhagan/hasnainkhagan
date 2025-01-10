@@ -15,7 +15,7 @@
  
 👥 I’m looking to collaborate with **talents in IT Industry**.
 
-💬 Ask me about **Religions... or anything [here](https://instagram.com/hasnainkhagan)**.
+💬 Hire my IT Agency (Freelevance) [here](https://freelevance.vercel.app) for the Best IT Solutions for your Businesses.
 
 📧 How to reach me freelevance@gmail.com .
 
