@@ -9,7 +9,7 @@
 
 <div align="left">
  
-🎯 I’m currently working on **Bill Splitting Web App | MERN**.
+🎯 I’m currently working on **Design-To-Code Tool**.
  
 🧠 I’m currently learning **Cloud Computing**.
  
