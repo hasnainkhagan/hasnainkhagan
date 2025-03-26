@@ -2,7 +2,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=BC1124&center=true&vCenter=true&random=false&width=450&height=100&lines=Assalamu'+Alaykum+!;Peace+be+Upon+You+!;This+is+Hasnain+Khan+!;Howdy+%3F" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">A Passionate <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=25&pause=1000&color=BC1124&center=true&vCenter=true&random=false&width=145&height=25&lines=Full+Stack+Dev;UI%2FUX+Designer" alt="Typing SVG" /> from Pakistan 🇵🇰.</h2>
+<h2 align="center">A Passionate <img src="https://readme-typing-svg.herokuapp.com?font=Monofett&size=32&duration=1000&pause=1000&color=BC1124&center=true&vCenter=true&width=250&height=44&lines=Creative+Dev;UI%2FUX+Designer" alt="Typing SVG" /> from Pakistan 🇵🇰.</h2>
 
 <br/>
 <br/>
