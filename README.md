@@ -9,40 +9,40 @@
 
 <div align="left">
  
-🎯 I’m currently working on **Design-To-Code Tool**.
+🎯 I’m currently working on **Creative Direction of Brandology**.
  
-🧠 I’m currently learning **Cloud Computing**.
+🧠 I’m currently learning **Shaders**.
  
-👥 I’m looking to collaborate with **talents in IT Industry**.
+👥 I’m looking to collaborate with **Creative Design Agencies & Studios** as a **Production Partner**.
 
-💬 Hire my IT Agency (Freelevance) [here](https://freelevance.vercel.app) for the Best IT Solutions for your Businesses.
+💬 Hire my Creative Agency (Ahkan) [here](https://ahkan-agency.vercel.app).
 
-📧 How to reach me freelevance@gmail.com .
+📧 How to reach me hasnainkhagan@gmail.com.
 
 💡 Fun fact **The world's first website went live on August 6, 1991**.
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:freelevance@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-dedede?style=for-the-badge&logo=gmail&logoColor=000000" />
+  <a href="mailto:hasnainkhagan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
   <a href="https://linkedin.com/in/hasnainkhagan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-dedede?style=for-the-badge&logo=linkedin&logoColor=000000" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000" target="_blank" />
   </a>
   <a href="https://hasnainkhagan.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-dedede?style=for-the-badge&logo=todoist&logoColor=000000" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=todoist&logoColor=000000" target="_blank" />
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">🚀 Tech Stack Arsenal</h2>
+<h2 align="center">🚀 Technologies</h2>
 <br/>
 <div align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,react,bootstrap,git,bash,md,linux,vscode,github,figma,webflow,wordpress" />
-    <img src="https://skillicons.dev/icons?i=cpp,php,python,typescript,javascript,nextjs,mui,nodejs,vuejs,express,nuxtjs,threejs,prisma,jquery,firebase,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,vuejs,nuxtjs,threejs" />
+     <img src="https://skillicons.dev/icons?i=figma,webflow,wordpress" />
 </p>
 </div>
 
@@ -62,5 +62,5 @@
 </div>
 
 <br/>
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=000000&background=dedede&center=true&vCenter=true&random=false&width=300&height=100&lines=Thank+You+._." alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=000000&background=fff&center=true&vCenter=true&random=false&width=300&height=100&lines=Thank+You+._." alt="Typing SVG" /></h1>
 <hr/>
